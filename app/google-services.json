@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768734303615",
+    "firebase_url": "https://kinetic-c5e30.firebaseio.com",
+    "project_id": "kinetic-c5e30",
+    "storage_bucket": "kinetic-c5e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768734303615:android:9234d08000aad8b1",
+        "android_client_info": {
+          "package_name": "tech.steampunk.kinetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768734303615-1ka2jcq2hfcf0q909dp8fbf63r4vcguu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.steampunk.kinetic",
+            "certificate_hash": "7b6aba1efe6886c9bae47bb16772e0bda9675431"
+          }
+        },
+        {
+          "client_id": "768734303615-8fpbdj005gmle136oppfkp6ki0929eof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Z-gCeM_Ev0rTtC3ceS4MfG2N52vRCm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768734303615-8fpbdj005gmle136oppfkp6ki0929eof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
